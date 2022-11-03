@@ -1,1 +1,1 @@
-# odin-recipes html project
+# odin project
