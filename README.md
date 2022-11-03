@@ -1,1 +1,1 @@
-# odin project
+# THE ODIN PROJECT
